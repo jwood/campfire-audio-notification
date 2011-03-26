@@ -1,5 +1,5 @@
 ## Description
-A user script that enables audio notifications in Campfire when a message is
+Play an audio notification when a message in Campfire is
 received from a specific user or when it contains a specific word.
 
 ## Usage
